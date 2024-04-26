@@ -3,8 +3,12 @@ Updated: April, 2024
 # SeoulBikeDemand_MachineLearning
 Data set from UCI machine learning repository. Creating a model to predict hourly demand for rental bikes in Seoul, South Korea, based on the date, hour, and weather conditions. 
 
-## Data set: 
-  Seoul Bike Sharing Demand. (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C5F62R.
+## Data set:
+[SeouldBikeData.csv](SeoulBikeData.csv)  
+Seoul Bike Sharing Demand. (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C5F62R.
+
+## Notebook:
+[SeoulBikeDemand_MVP.ipynb](SeoulBikeDemand_MVP.ipynb)
 
 ## Table of contents:
 1. Problem Definition and Set Up
